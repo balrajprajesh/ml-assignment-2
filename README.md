@@ -18,10 +18,9 @@ Unsolicited commercial and malicious bulk emails (spam) pose persistent operatio
 
 ---
 
-## c. GitHub Repository & Live App Links
-* **GitHub Repository Link:** [https://github.com/<your-username>/<your-repo-name>](https://github.com/<your-username>/<your-repo-name>)
-* **Live Streamlit App Link:** [https://<your-app-name>.streamlit.app](https://<your-app-name>.streamlit.app)
-
+## c. Github Repository Link
+* **GitHub Repository Link:** [https://github.com/balrajprajesh/ml-assignment-2](https://github.com/balrajprajesh/ml-assignment-2)
+* **Live Streamlit App Link:** [https://ml-assignment-2-2026aj05123.streamlit.app/](https://ml-assignment-2-2026aj05123.streamlit.app/)
 ---
 
 ## d. Models Used & Evaluation Metrics Comparison
